@@ -1,0 +1,14 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/businessman-holding-white-glowing-house-icon-black-background-real-estate-finance-concepts_49059-748.jpg');
+    background-size: cover;
+    color:white
+  }
+
+  #property{
+    border-radius: 20px;
+    background-color: orange;
+  }
+
+  #image{
+    height: 100%
+  }
